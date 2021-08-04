@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200628061520",
+    "project_id": "sociallogin-f8f30",
+    "storage_bucket": "sociallogin-f8f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200628061520:android:ed674cad6832984c70d855",
+        "android_client_info": {
+          "package_name": "com.example.sociallogin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200628061520-frdjhcsesoptfd9eob1hp18u9thpi9se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sociallogin_app",
+            "certificate_hash": "f5d81831861b5014e0a693371797c74562243b47"
+          }
+        },
+        {
+          "client_id": "200628061520-2qv3p366pvn3sm5p4sdja49el297kls5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMrjzV94FqA1au0YPgsdjhIipIonUzbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200628061520-2qv3p366pvn3sm5p4sdja49el297kls5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
